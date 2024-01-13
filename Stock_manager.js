@@ -10,5 +10,3 @@ class Stock_manager {
 		this.inStock = qnt;
 	}
 }
-
-const cerveja = new Stock_manager("Heineken", "Cerveja", "R$5,65");
